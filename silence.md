@@ -63,7 +63,7 @@ The use of the lantern room is described later on in this document.
 
 ##### Other rooms
 
-Here are some more ideas for other (optional) rooms that you may decide to add in full or in partial to your group's treehouse.
+Here are some more ideas for other (optional) rooms that you may decide to add in full or in part to your group's treehouse.
 
 - Library
 - Thing 2
@@ -81,15 +81,34 @@ Different groups have different opinions on GM-run treehouse members. Newer grou
 
 ## Play
 
-Played as if all the PCs are gathered in a circle in their treehouse sharing stories etc...
+The game attempts to keep all scenes rooted in the treehouse. Flashbacks occur regularly to show scenes that have occurred in the past, but with few exceptions the "present moment" of the game remains the treehouse. This allows most meta conversations that you might have while playing to reasonably occur in the fiction, in character as well, which should be taken advantage of by remaining in character as much as reasonably possible. For example, if you want to vent to someone but don't know who has the most spoons to deal with your vent, instead of asking the other players out of character whose character has the most spoons left to accommodate a vent, do it in character!
 
-### Health
+### Progression
 
-#### Status effects
+#### Days
+
+This game is structured around a series of days. At the beginning of each one, players must decide how the hours at their disposal are spent. Each "day" every player contributes one event that occurred at school, home, or elsewhere that day and the group can optionally play that as a scene. Bonus progression points are provided if the event is related to a flaw, vice, or trouble.
+
+### Stats
+
+Each player character keeps track of a few key statistics. These differ from those present in many RPGs in that they don't denote any predispositions for or against certain types of gameplay (as a strength or intelligence stat would, for example)
+
+#### Spoons
+
+#### Spare time
+
+### Status effects
 
 - When bad things happen (failed a check, discovered something awful, saw something disturbing, etc...) Characters can become saddled with certain status effects that negatively affect gameplay.
 - Status effects act as the basic building blocks of the health system.
 - Each character has an arbitrary number of status effects that they can handle at any given time. If they reach their maximum, they enter the "crashing out" state.
+- Characters can attempt to clear status effects by venting to a friend.
+
+TODO
+
+### Venting
+
+- You can
 
 TODO
 
@@ -104,21 +123,6 @@ TODO
 - Some form of power scaling a-la strings from monsterhearts?
 - social focus!
 - As you work on your health your capacity to do things expands
-
-TODO
-
-#### Vent skill
-
-- You can
-
-TODO
-
-## Mechanics
-
-- PC suicide results in a campfire scene where the remaining players sit in silence for a moment then go around in a circle and each tell their favorite story of the fallen.
-- Days
-  - This game is structured around a series of days. At the beginning of each one, players must decide how the hours at their disposal are spent.
-  - Each "day" every player contributes one event that occurred at school, home, or elsewhere that day and the group can optionally play that as a scene. Bonus progression points are provided if the event is related to a flaw, vice, or trouble.
 
 TODO
 
