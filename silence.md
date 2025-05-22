@@ -89,6 +89,18 @@ The game attempts to keep all scenes rooted in the treehouse. Flashbacks occur r
 
 This game is structured around a series of days. At the beginning of each one, players must decide how the hours at their disposal are spent. Each "day" every player contributes one event that occurred at school, home, or elsewhere that day and the group can optionally play that as a scene. Bonus progression points are provided if the event is related to a flaw, vice, or trouble.
 
+### Spare time
+
+spare time is a resource that is evenly distributed to players.
+
+Spare time can be spent:
+
+#### Working out
+
+#### Preparing for a task
+
+#### Third thing here
+
 ### Stats
 
 Each player character keeps track of a few key statistics. These differ from those present in many RPGs in that they don't denote any predispositions for or against certain types of gameplay (as a strength or intelligence stat would, for example)
@@ -97,12 +109,24 @@ Each player character keeps track of a few key statistics. These differ from tho
 
 #### Spare time
 
+#### Stress
+
+Stress can either turn into status effects or new flaws vices, and troubles.
+
+Stress are bad right now, status effects are bad for the short term, and flaws vices & troubles are bad long term.
+
+All stress can be cleared by taking one flaw, vice, or trouble
+
+smaller amounts of stress can be cleared by taking status effects.
+
 ### Status effects
 
 - When bad things happen (failed a check, discovered something awful, saw something disturbing, etc...) Characters can become saddled with certain status effects that negatively affect gameplay.
 - Status effects act as the basic building blocks of the health system.
 - Each character has an arbitrary number of status effects that they can handle at any given time. If they reach their maximum, they enter the "crashing out" state.
 - Characters can attempt to clear status effects by venting to a friend.
+
+All status effects can be cleared by taking one flaw, vice, or trouble
 
 TODO
 
@@ -124,7 +148,23 @@ TODO
 - social focus!
 - As you work on your health your capacity to do things expands
 
-TODO
+Roll a certain number of d8's
+Start with 1d8
+Add 1 die if you have experience with this (GM discretion)
+Add 1 die for each spare time block spent Preparing (max 2)
+You can exchange spoons for dice (1 spoon for 1 die)
+
+Subtract current level of Stress
+
+| roll    | outcome |
+| ------- | ------- |
+| Success | Item1   |
+| Failure | Item1   |
+
+- Can use spoons to guarantee success or avoid consequences (very powerful, but in limited quantity)
+- Can use spare time to prepare for a check.
+- TODO: Decide how this game treats skills
+  TODO
 
 ## Characters
 
