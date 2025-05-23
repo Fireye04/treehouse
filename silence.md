@@ -107,7 +107,15 @@ Each player character keeps track of a few key statistics. These differ from tho
 
 #### Spoons
 
+Powerful but in limited quantity
+
+- As you work on your health your capacity to do things expands
+
 #### Spare time
+
+### Health
+
+"Health" in this game is represented by a series of stress points, which can worsen into status effects, and finally into flaws, vices, and troubles (which are explained later).
 
 #### Stress
 
@@ -119,16 +127,16 @@ All stress can be cleared by taking one flaw, vice, or trouble
 
 smaller amounts of stress can be cleared by taking status effects.
 
-### Status effects
+#### Status effects
 
 - When bad things happen (failed a check, discovered something awful, saw something disturbing, etc...) Characters can become saddled with certain status effects that negatively affect gameplay.
 - Status effects act as the basic building blocks of the health system.
 - Each character has an arbitrary number of status effects that they can handle at any given time. If they reach their maximum, they enter the "crashing out" state.
 - Characters can attempt to clear status effects by venting to a friend.
 
-All status effects can be cleared by taking one flaw, vice, or trouble
+Status effects can either be general (can apply to all players) or flaw/vice/trouble specific.
 
-TODO
+All status effects can be cleared by taking one additional flaw, vice, or trouble.
 
 ### Venting
 
@@ -142,29 +150,60 @@ Similar to the darkest self in monsterhearts.
 
 TODO
 
+### IOUs
+
+An IOU is a metaphorical token of debt. You did someone a favor, or perhaps have some information on them that they'd rather not see the light of day. Regardless of how you get it, you can use IOUs to influence other characters when you need to.
+
+#### Spending IOUs
+
+IOUs can be spent at any time
+
+#### Getting IOUs
+
+### Beef
+
 ### Skill checks
 
-- Some form of power scaling a-la strings from monsterhearts?
-- social focus!
-- As you work on your health your capacity to do things expands
+(GMs: See _On GMing_ later to determine when you should be calling for rolls!)
 
-Roll a certain number of d8's
+When performing a skill check, do the following:
+
+#### 1: Determine consequences
+
+What happens if you succeed? If you fail?
+
+Players are welcome to propose ideas as to potential consequences (including players not involved in the current check!), but the final word is left to the player making the check and the GM.
+
+Remember to account for effects imposed by status effects and/or flaws, vices, & troubles
+
+#### 2. Gather dice pool
+
 Start with 1d8
-Add 1 die if you have experience with this (GM discretion)
-Add 1 die for each spare time block spent Preparing (max 2)
-You can exchange spoons for dice (1 spoon for 1 die)
 
-Subtract current level of Stress
+- Add 1d8 if you have experience with this (GM discretion)
+- Add 1d8 for each spare time block spent preparing for this check (max 2)
 
-| roll    | outcome |
-| ------- | ------- |
-| Success | Item1   |
-| Failure | Item1   |
+- Subtract d8's corresponding to your current level of Stress.
+- Subtract d8s equal to the check's difficulty, as determined by the GM:
 
-- Can use spoons to guarantee success or avoid consequences (very powerful, but in limited quantity)
-- Can use spare time to prepare for a check.
-- TODO: Decide how this game treats skills
-  TODO
+| difficulty  | dice subtracted |
+| ----------- | --------------- |
+| Contested   | -0d8            |
+| Challenging | -1d8            |
+| Impossible  | -2d8            |
+
+> [!NOTE]
+> Easy checks are simply succeeded, unless the player wishes to roll anyway
+
+If the final result is below 0, just roll one die and for each die below one your resulting total is, worsen the consequences by one step. and just roll one die.
+
+| outcome          | roll        | consequences              |
+| ---------------- | ----------- | ------------------------- |
+| Critical Success | 2+ 8s       | Succeed & reduce stress   |
+| Success          | 8 highest   | Succeed & take no stress  |
+| Success at Cost  | 6-7 highest | Succeed & Take stress     |
+| Failure          | 3-5 highest | Fail & take stress        |
+| Critical Falure  | 1-2 highest | Fail & take double stress |
 
 ## Characters
 
@@ -208,3 +247,17 @@ The player with the lantern waits in silence until the room becomes still. What 
 Once the circle completes, the departed is given a chance to respond to the stories and messages in the same manner. If they are dead or otherwise absent, a one minute silence is observed.
 
 Finally, all of the messages are collected from the circle, and placed behind the departed's self portrait into a simple picture frame. If the departed has died, this frame is white, otherwise it is black. The frame is placed somewhere on the outskirts of the room alongside the portraits of the many that have come before.
+
+## On GMing
+
+### When do I call for a roll?
+
+A roll in a TTRPG is (in broad terms) a summary of what occurs; a simplification of more complicated events down to a simple success/fail, or perhaps slightly more depending on the system. The focus of this system specifically _is_ the roleplay, thus if you're roleplaying something, why would you want to simplify the situation? Let it play out in all its complexity! Opt to use IOUs instead if mechanical intervention is strictly required.
+
+In summary: Opt for roleplay over rolling & skill checks wherever possible.
+
+> [!NOTE] Optional Rule - IOU spending
+>
+> Your players may want to spend an IOU to influence a roll. It is not recommended to allow this in purely social situations, however if a roll can be influenced by an IOU and you want to allow it, here are some rules to allow for such an event.
+>
+> 1 IOU = 1 extra die
