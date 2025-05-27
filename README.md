@@ -105,12 +105,6 @@ Spare time can be spent:
 
 Each player character keeps track of a few key statistics. These differ from those present in many RPGs in that they don't denote any predispositions for or against certain types of gameplay (as a strength or intelligence stat would, for example)
 
-#### Spoons
-
-Powerful but in limited quantity
-
-- As you work on your health your capacity to do things expands
-
 #### Spare time
 
 ### Health
@@ -127,11 +121,16 @@ All stress can be cleared by taking one flaw, vice, or trouble
 
 smaller amounts of stress can be cleared by taking status effects.
 
+Finally, time can be spent to clear stress during downtime.
+
 #### Status effects
 
 - When bad things happen (failed a check, discovered something awful, saw something disturbing, etc...) Characters can become saddled with certain status effects that negatively affect gameplay.
+- Each status effect should have a "when does the effect trigger"
 - Status effects act as the basic building blocks of the health system.
-- Each character has an arbitrary number of status effects that they can handle at any given time. If they reach their maximum, they enter the "crashing out" state.
+- Each character starts with a limit of 4 status effects that they can handle at any given time, which can be increased as the game goes on. When they take a new one they roll the dice equivalent to their limit (lim 4 -> d4, lim 6 -> d6). If they roll below or equal to their current number of status effects (including the new one), they enter the "Crashing out" state.
+- If adding the new status effect would exceed the player's current limit, clear all current status effects, take a new flaw, vice or trouble, and add the new status effect to the now cleared status effect list.
+
 - Characters can attempt to clear status effects by venting to a friend.
 
 Status effects can either be general (can apply to all players) or flaw/vice/trouble specific.
@@ -152,13 +151,17 @@ TODO
 
 ### IOUs
 
-An IOU is a metaphorical token of debt. You did someone a favor, or perhaps have some information on them that they'd rather not see the light of day. Regardless of how you get it, you can use IOUs to influence other characters when you need to.
+An IOU is a metaphorical token of debt. You did someone a favor, or perhaps have some information on them that they'd rather not see the light of day. IOUs are character-specific; You can't use an IOU you got from person A when talking to person B.
+
+Regardless of how you get them, you can use IOUs to influence other characters when you need to.
 
 #### Spending IOUs
 
-IOUs can be spent at any time
+IOUs can be spent at any time during conversation
 
 #### Getting IOUs
+
+Certain IOUs (GM discretion) can be shared with others to gain IOUs on them. For example, if you have a secret (an IOU) about person A, you can tell person B in order to gain an IOU on person B. Person B then might gain that same IOU on person A, if the GM thinks that would be appropriate.
 
 ### Beef
 
@@ -182,6 +185,7 @@ Start with 1d8
 
 - Add 1d8 if you have experience with this (GM discretion)
 - Add 1d8 for each spare time block spent preparing for this check (max 2)
+- Add 1d8 by taking a deal with the devil (discuss with the GM to decide what this entails! TODO: better explanation)
 
 - Subtract d8's corresponding to your current level of Stress.
 - Subtract d8s equal to the check's difficulty, as determined by the GM:
@@ -197,13 +201,12 @@ Start with 1d8
 
 If the final result is below 0, just roll one die and for each die below one your resulting total is, worsen the consequences by one step. and just roll one die.
 
-| outcome          | roll        | consequences              |
-| ---------------- | ----------- | ------------------------- |
-| Critical Success | 2+ 8s       | Succeed & reduce stress   |
-| Success          | 8 highest   | Succeed & take no stress  |
-| Success at Cost  | 6-7 highest | Succeed & Take stress     |
-| Failure          | 3-5 highest | Fail & take stress        |
-| Critical Falure  | 1-2 highest | Fail & take double stress |
+| outcome          | roll        | consequences                    |
+| ---------------- | ----------- | ------------------------------- |
+| Critical Success | 2+ 8s       | Succeed & reduce stress         |
+| Success          | 6-8 highest | Succeed                         |
+| Failure          | 3-5 highest | Fail & perform a crash out roll |
+| Critical Falure  | 1-2 highest | Fail & add one status effect    |
 
 ## Characters
 
@@ -256,8 +259,25 @@ A roll in a TTRPG is (in broad terms) a summary of what occurs; a simplification
 
 In summary: Opt for roleplay over rolling & skill checks wherever possible.
 
-> [!NOTE] Optional Rule - IOU spending
+> [!NOTE]
+> Optional Rule - IOU spending
 >
 > Your players may want to spend an IOU to influence a roll. It is not recommended to allow this in purely social situations, however if a roll can be influenced by an IOU and you want to allow it, here are some rules to allow for such an event.
 >
 > 1 IOU = 1 extra die
+
+## Inspiration
+
+This Game takes inspiration from a bunch of incredible TTRPGs. Here's what I'm drawing from:
+
+### Blades in the dark
+
+John Harper's _Blades in the Dark_ served as an incredibly strong starting point for this system's dice mechanics. Try as I might, its "deal with the devil" mechanic is a stroke of genius that that I just can't top. Baiting players to willingly make the situation more complicated and difficult by dangling an extra d8 in front of them is so evil and I love it so much.
+
+### Slugblaster
+
+Mikey Hamm's _Slugblaster_ inspired this game's classes. Its framework for class-based storytelling was a tremendous inspiration for how this game handles its equivalent mechanic; flaws, vices and troubles. Providing each class with a vague yet structured story that it's designed to tell is such a useful concept.
+
+### Tales From the Loop
+
+Nathaniel Halpern's _Tales From the Loop_ was a core inspiration for this system's status effect/ venting system. The idea of accruing mechanically damaging status effects that can then be shared with others to (potentially) alleviate them is an incredibly powerful idea when it comes to mechanically pushing players to engage in deep roleplay when they might otherwise opt to avoid more difficult, emotionally involved ideas & concepts.

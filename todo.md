@@ -1,5 +1,4 @@
-# TODO List!
+# TODO List
 
-- Spoons vs stress?
-    - They serve generally the same role
--
+- As you work on your health your capacity to do things expands
+  - This is represented by amount of stress cleared on downtime?
