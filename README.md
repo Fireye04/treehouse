@@ -137,6 +137,12 @@ Status effects can either be general (can apply to all players) or flaw/vice/tro
 
 All status effects can be cleared by taking one additional flaw, vice, or trouble.
 
+##### Beef
+
+Having beef with another character grants you this special status effect. You can only have one instance of this status effect, regardless of how much beef you have.
+
+When making a roll, if you have beef with any character involved, subtract 1d8 for each point of beef you have, unless you are making this roll in active resolution of the beef.
+
 ### Venting
 
 - You can
@@ -157,13 +163,23 @@ Regardless of how you get them, you can use IOUs to influence other characters w
 
 #### Spending IOUs
 
-IOUs can be spent at any time during conversation
+IOUs can be spent at any time during conversation to create one of the following affects.
+
+##### Ask a question
+
+- Answer honestly
+- Dodge the question and take 5 stress
+- Dodge the question and
 
 #### Getting IOUs
 
 Certain IOUs (GM discretion) can be shared with others to gain IOUs on them. For example, if you have a secret (an IOU) about person A, you can tell person B in order to gain an IOU on person B. Person B then might gain that same IOU on person A, if the GM thinks that would be appropriate.
 
 ### Beef
+
+Beef is unaddressed social pressure that builds up between individuals till it's talked through or violently explodes. Getting beef isn't overwhelmingly common but when it does show up, it makes things bad till it's addressed.
+
+Every time you add a beef, write down exactly what caused it.
 
 ### Skill checks
 
