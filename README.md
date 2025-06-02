@@ -29,7 +29,7 @@ To be abundantly clear, this is not saying you should grin and bear it through a
 
 ## Setting
 
-In a treehouse or some equivalent base-adjacent location. Players play as high schoolers or college-age students.
+In a treehouse or some equivalent base-adjacent location. Players play as high schoolers or college-age students. These characters will inevitably be wholly problematic and unwell, however despite this they must always have each other's best interests at heart, even if the ups and downs of the moment to moment don't fully illustrate that. If a character is created and does not have this core trait, either ask the whole party for full permission before proceeding (it could admittedly make for a great story), or go back to the drawing board. Potentially hand that character off to the GM as an adversary or other relevant NPC, but at the end of the day this game was designed for players to have each others backs.
 
 ### The treehouse
 
@@ -87,7 +87,7 @@ The game attempts to keep all scenes rooted in the treehouse. Flashbacks occur r
 
 #### Days
 
-This game is structured around a series of days. At the beginning of each one, players must decide how the hours at their disposal are spent. Each "day" every player contributes one event that occurred at school, home, or elsewhere that day and the group can optionally play that as a scene. Bonus progression points are provided if the event is related to a flaw, vice, or trouble.
+This game is structured around a series of days. At the beginning of each one, players must decide how the hours at their disposal are spent. Each "day" every player contributes one event that occurred at school, home, or elsewhere that day and the group can optionally play that as a scene. Remove 2 stress if the event is related to a flaw, vice, or trouble.
 
 ### Spare time
 
@@ -105,7 +105,8 @@ Spare time can be spent:
 
 Each player character keeps track of a few key statistics. These differ from those present in many RPGs in that they don't denote any predispositions for or against certain types of gameplay (as a strength or intelligence stat would, for example)
 
-#### Spare time
+- Stress
+- Spare time
 
 ### Health
 
@@ -139,21 +140,40 @@ All status effects can be cleared by taking one additional flaw, vice, or troubl
 
 ##### Beef
 
-Having beef with another character grants you this special status effect. You can only have one instance of this status effect, regardless of how much beef you have.
+Having beef with another character grants you this special status effect. You can only have one instance of this status effect, regardless of how much beef you have, however it is only removed when you have no beef remaining, with anyone.
 
-When making a roll, if you have beef with any character involved, subtract 1d8 for each point of beef you have, unless you are making this roll in active resolution of the beef.
+When making a roll, if you have beef with any character involved, subtract 1d8 for each point of beef you have, unless you are making this roll to vent this status effect to them.
+
+If this status effect is successfully vented to someone other than the target of the beef, its effects are suppressed for 1d4 days, but not removed.
 
 ### Venting
 
-- You can
-
-TODO
+You can remove status effects by successfully venting them to another player character.
 
 ### Crashing out
 
 Similar to the darkest self in monsterhearts.
 
 TODO
+
+### Beef
+
+Beef is unaddressed social pressure that builds up between individuals till it's talked through or violently explodes. Getting beef isn't overwhelmingly common but when it does show up, it makes things bad till it's addressed.
+
+#### Adding beef
+
+Every time you add a beef, write down exactly what caused it and who it's at. Beef can be reciprocal or it can be one-way depending on the situation. Anyone can call for beef to be invoked in regards to their character. If the GM calls for beef to be added, the player, or players in question can either accept the beef or split 5 stress among themsevles as they wish.
+
+When beef is called everyone involved should discuss who has it, who it's pointed at, and if it's reciprocal. Once that's decided, those adding beef to their characters should do so, then add the special "beef" status effect to their character sheets if they have taken beef and do not already have it.
+
+Note that while the status effect cannot stack, beef itself can!
+
+#### On removing Beef
+
+One can remove beef by venting its associated status effect to the ire of their beef, or alternatively by cutting ties. The latter is achieved by cutting the target of the beef off as much as possible. Blocking numbers, setting boundaries, and keeping distance.
+
+> [!NOTE]
+> If you end up in a situation where a PC is holding a lot of one way beef towards another PC and they refuse to resolve it, that might be a good time to pause, take a step back and have a discussion about everyone's goals. If Everyone involved (especially the player with all the beef) is cool with it and thinks it makes for good storytelling, great! But if not, it might be a good time to consider retiring the target PC or perhaps finding some way to alter their character to make the game more cooperative.
 
 ### IOUs
 
@@ -169,17 +189,11 @@ IOUs can be spent at any time during conversation to create one of the following
 
 - Answer honestly
 - Dodge the question and take 5 stress
-- Dodge the question and
+- Dodge the question and mark one beef towards them.
 
 #### Getting IOUs
 
 Certain IOUs (GM discretion) can be shared with others to gain IOUs on them. For example, if you have a secret (an IOU) about person A, you can tell person B in order to gain an IOU on person B. Person B then might gain that same IOU on person A, if the GM thinks that would be appropriate.
-
-### Beef
-
-Beef is unaddressed social pressure that builds up between individuals till it's talked through or violently explodes. Getting beef isn't overwhelmingly common but when it does show up, it makes things bad till it's addressed.
-
-Every time you add a beef, write down exactly what caused it.
 
 ### Skill checks
 
@@ -229,6 +243,8 @@ If the final result is below 0, just roll one die and for each die below one you
 ### Flaws, Vices, and Troubles
 
 - Characters are mechanically built around their flaws, vices, and troubles. Some may only struggle with one, others with many, yet most pick up new ones as they go along. Players should decide how their character feels about each of their issues (despises it but feels helpless, has willfully ignored it long enough for it to lay slumbering in their psyche, actively fights any change refusing to accept it as a negative trait, etc...), Their past with each one, and more.
+
+Conquering or coming to peace with a flaw, vice or trouble allows you to increase your status effect capacity
 
 TODO
 
@@ -281,6 +297,10 @@ In summary: Opt for roleplay over rolling & skill checks wherever possible.
 > Your players may want to spend an IOU to influence a roll. It is not recommended to allow this in purely social situations, however if a roll can be influenced by an IOU and you want to allow it, here are some rules to allow for such an event.
 >
 > 1 IOU = 1 extra die
+
+### Rewarding good storytelling
+
+Did a player willingly take a mechanical penalty to tell a better story? Make sure to reward them with TODO
 
 ## Inspiration
 
