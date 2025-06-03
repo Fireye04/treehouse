@@ -107,6 +107,7 @@ Each player character keeps track of a few key statistics. These differ from tho
 
 - Stress
 - Spare time
+- Inspiration TODO: positive token of progress to be spent on flaw, vice or trouble beat scenes
 
 ### Health
 
@@ -144,11 +145,26 @@ Having beef with another character grants you this special status effect. You ca
 
 When making a roll, if you have beef with any character involved, subtract 1d8 for each point of beef you have, unless you are making this roll to vent this status effect to them.
 
-If this status effect is successfully vented to someone other than the target of the beef, its effects are suppressed for 1d4 days, but not removed.
+Additionally, upon entering a social situation with the target of the beef, take one point of stress for each point of beef you have towards them if you do not immediately leave.
+
+If this status effect is successfully vented to someone other than the target of the beef, the stress penalty, but not the 1d8 roll reduction, is suppressed for 1d4 days, but not removed.
 
 ### Venting
 
 You can remove status effects by successfully venting them to another player character.
+
+Before playing out the scene make a roll. This roll will serve as a direction but not an outcome. The outcome should be achieved though rp
+
+normal roll, except outcomes.
+
+| outcome          | roll        | consequences                    |
+| ---------------- | ----------- | ------------------------------- |
+| Critical Success | 2+ 8s       | Succeed & reduce stress         |
+| Success          | 6-8 highest | Succeed                         |
+| Failure          | 3-5 highest | Fail & perform a crash out roll |
+| Critical Falure  | 1-2 highest | Fail & add one status effect    |
+
+TODO: Some kind of penalty for repeated venting?
 
 ### Crashing out
 
