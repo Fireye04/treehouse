@@ -151,16 +151,18 @@ If this status effect is successfully vented to someone other than the target of
 
 ### Venting
 
-You can remove status effects by successfully venting them to another player character.
+You can remove status effects by successfully venting them to another player character. You may not vent to NPCs.
 
 Before playing out the scene make a roll. This roll will serve as a direction but not an outcome. The outcome should be achieved though rp
 
 normal roll, except outcomes.
 
+the reciever of the vent can optionally choose to shut down the vent by lashing out, turning on, or otherwise attacking the venter. in doing so they may clear all stress. if this occurs the vent is failed and the venter must either take beef towards the reciever or take on the amount of stress they jus5 cleared.
+
 | outcome          | roll        | consequences                    |
 | ---------------- | ----------- | ------------------------------- |
 | Critical Success | 2+ 8s       | Succeed & reduce stress         |
-| Success          | 6-8 highest | Succeed                         |
+| Success          | 6-8 highest | Succeed                         |    
 | Failure          | 3-5 highest | Fail & perform a crash out roll |
 | Critical Falure  | 1-2 highest | Fail & add one status effect    |
 
