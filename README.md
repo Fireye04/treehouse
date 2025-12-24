@@ -37,11 +37,11 @@ The treehouse has been here longer than any of the players. Nobody really knows 
 
 #### Joining up
 
-When someone joins the treehouse, usually via an invite (which requires unanimous approval from all current members), all the treehouse asks of them is a signed, hand-drawn self portrait. Players should take the time to create these for their characters, in character, then give them to the GM. In the fiction, these are placed into a chest in the general room and kept under lock & key.
+When someone joins the treehouse, usually via an invite (which requires unanimous approval from all current members), all the treehouse asks of them is a signed, hand-drawn self portrait. Players should take the time to create these for their characters, in character, then give them to the GM. In the fiction, these are placed into a chest in the general room and kept under lock & key. Self portraits are encouraged to be artistic and contain as much of your character's personality as possible. If you can't draw, big whoop, make one anyway, and be creative with it!
 
 #### Departing
 
-Departing the treehouse results in a lantern meeting, as detailed later in this document, regardless of the circumstances. A character moving away to attend another college, their parents moving away, abandoning the group due to disagreements, or they have killed themselves/ died in some other way are all causes of a character's departure. These events might be informed by mechanics, or by player decision.
+Departing the treehouse results in a lantern meeting, as detailed later in this document, regardless of the circumstances. A character moving away to attend another college, their parents moving away, abandoning the group due to disagreements, or they have died in some way or another, are all causes of a character's departure. These events might be informed by mechanics, or by player decision.
 
 ### Status and leadership
 
@@ -57,7 +57,7 @@ This room is the central hub of operations, the centerpiece of the treehouse. Th
 
 ##### The Lantern room
 
-The lantern room is off limits, with two exceptions. The first is by unanimous vote, and the other is upon a member's departure. The lantern room almost always has no windows, lit solely by... a lantern. The lantern room has a collection of picture frames painted either black or white, many already used to house the self portraits of the many that have come before, scattered around the outsides of the room. It is forbidden to intentionally touch the portrait of someone you didn't know personally.
+The lantern room is off limits, with two exceptions. The first is by unanimous vote, and the other is upon a member's departure. The lantern room almost always has no windows, lit solely by... a lantern. The lantern room has a collection of picture frames painted either black or white, many already used to house the self portraits of the many that have come before, scattered around the outsides of the room. It is severely frowned upon to intentionally touch the portrait of someone you didn't know personally.
 
 The use of the lantern room is described later on in this document.
 
@@ -77,11 +77,13 @@ The set of governing rules for the treehouse set out in this doccument serve sim
 
 #### NPC preferences
 
-Different groups have different opinions on GM-run treehouse members. Newer groups might benefit from beginning with a GM-run eldest treehouse member, at least for a couple of sessions, some groups might enjoy a larger community within the treehouse, populated by GM-run NPCs (that they might take on as PC's later on once their PC has moved on), and others might prefer a group that contains solely PCs.
+Different groups have different opinions on GM-run treehouse members. Newer groups might benefit from beginning with a GM-run eldest treehouse member, at least for a couple of sessions, some groups might enjoy a larger community within the treehouse, populated by GM-run NPCs (that they might take on as PC's later on once their PC has moved on), and others might prefer a group that contains solely PCs. Determine your party's preference in a session 0 before beginning play.
 
 ## Play
 
-The game attempts to keep all scenes rooted in the treehouse. Flashbacks occur regularly to show scenes that have occurred in the past, but with few exceptions the "present moment" of the game remains the treehouse. This allows most meta conversations that you might have while playing to reasonably occur in the fiction, in character as well, which should be taken advantage of by remaining in character as much as reasonably possible. For example, if you want to vent to someone but don't know who has the most spoons to deal with your vent, instead of asking the other players out of character whose character has the most spoons left to accommodate a vent, do it in character!
+The game attempts to keep all scenes rooted in the treehouse. Flashbacks occur regularly to show scenes that have occurred in the past, but with few exceptions the "present moment" of the game remains the treehouse. This allows most meta conversations with other players that you might have in game to reasonably occur in the fiction, and in character. This should be taken advantage of by remaining in character as much as reasonably possible. For example, if you want to vent to someone but don't know who has the most spoons to deal with your vent, instead of asking the other players out of character whose character has the most spoons left to accommodate a vent, do it in character!
+
+More advanced groups will likely do so much more naturally than newer ones. The GM should try to spot these kinds of conversations and gently nudge players to engage in-character instead, though don't force it if players don't feel comfortable doing so.
 
 ### Progression
 
@@ -117,13 +119,16 @@ Each player character keeps track of a few key statistics. These differ from tho
 
 Stress can either turn into status effects or new flaws vices, and troubles.
 
-Stress are bad right now, status effects are bad for the short term, and flaws vices & troubles are bad long term.
+Stress is bad right now, status effects are bad for the short term, and flaws vices & troubles are bad long term.
 
 All stress can be cleared by taking one flaw, vice, or trouble
 
 smaller amounts of stress can be cleared by taking status effects.
+- 4 stress = 1 status effect
 
-Finally, time can be spent to clear stress during downtime.
+Time can be spent to clear stress during downtime.
+
+Finally, one can engage in a current flaw or vice to clear stress
 
 #### Status effects
 
@@ -135,9 +140,11 @@ Finally, time can be spent to clear stress during downtime.
 
 - Characters can attempt to clear status effects by venting to a friend.
 
-Status effects can either be general (can apply to all players) or flaw/vice/trouble specific.
+Status effects can either be general (can be taken by any player) or flaw/vice/trouble specific.
 
-All status effects can be cleared by taking one additional flaw, vice, or trouble.
+All status effects can be cleared by taking one additional flaw, vice, or trouble 
+
+One status effect can also be cleared by deeply engaging in a flaw or vice.
 
 ##### Beef
 
@@ -153,11 +160,11 @@ If this status effect is successfully vented to someone other than the target of
 
 You can remove status effects by successfully venting them to another player character. You may not vent to NPCs.
 
-Before playing out the scene make a roll. This roll will serve as a starting point but not an outcome. The outcome should be achieved though rp
+Before playing out the scene make a roll. This roll will serve as a starting point but not an outcome. The outcome should be achieved though rp-- TODO: what the fuck was past me on about how the fuck is this supposed to work??? Figure it out, it sounds badass.
 
 normal roll, except outcomes.
 
-the reciever of the vent can optionally choose to shut down the vent by lashing out, turning on, or otherwise attacking the venter. in doing so they may clear all stress. if this occurs, the vent is failed and the venter must either take beef towards the reciever or take on the amount of stress they just cleared.
+the reciever of the vent can optionally choose to shut down the vent by lashing out, turning on, or otherwise attacking the venter. in doing so they may clear all stress and one status effect. if this occurs, the vent is failed and the venter must either take beef towards the reciever or take on the amount of stress they just cleared.
 
 | outcome          | roll        | consequences                    |
 | ---------------- | ----------- | ------------------------------- |
@@ -209,6 +216,8 @@ IOUs can be spent at any time during conversation to create one of the following
 - Dodge the question and take 5 stress
 - Dodge the question and mark one beef towards them.
 
+ TODO: Inner monologue?
+
 #### Getting IOUs
 
 Certain IOUs (GM discretion) can be shared with others to gain IOUs on them. For example, if you have a secret (an IOU) about person A, you can tell person B in order to gain an IOU on person B. Person B then might gain that same IOU on person A, if the GM thinks that would be appropriate.
@@ -247,7 +256,7 @@ Start with 1d8
 > [!NOTE]
 > Easy checks are simply succeeded, unless the player wishes to roll anyway
 
-If the final result is below 0, just roll one die and for each die below one your resulting total is, worsen the consequences by one step. and just roll one die.
+If the final result is 0 or below, just roll one die and for each die below one your resulting total is, worsen the consequences by one step.
 
 | outcome          | roll        | consequences                    |
 | ---------------- | ----------- | ------------------------------- |
