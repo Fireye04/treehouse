@@ -1,8 +1,8 @@
-# Silence GDD
+# Treehouse
 
 ## Goal
 
-This game runs directly towards dark subject matter. In other words, this game does not _have_ a trigger warning. This game _is_ a trigger warning. This game is designed to poke and prod at characters' issues while pushing further conflict between them. Despite this, it also strives to create a community out of its players, not as a result of its draconian mechanics, but specifically despite them.
+This game runs directly towards dark subject matter. In other words, this game does not _have_ a trigger warning. This game _is_ a trigger warning. This game is designed to poke and prod at characters' issues while pushing further conflict between them. Despite this, it also strives to create a community out of its players, not as a result of its draconian mechanics, but specifically despite them. If this doesn't sound fun to you, play something else!
 
 ## Preface
 
@@ -66,14 +66,19 @@ The use of the lantern room is described later on in this document.
 Here are some more ideas for other (optional) rooms that you may decide to add in full or in part to your group's treehouse.
 
 - Library
-- Thing 2
-- TODO: Add more ideas here :3
+- Game room
+- Art Room
+- Brig (this was partly a joke but now i'm curious)
 
 ### On running the treehouse
 
 #### Governing rules
 
-The set of governing rules for the treehouse set out in this doccument serve simply as a place to start. They could feature as the system inherited by the players, one that is simply accepted as a universal constant, or one that is eventually overruled by the players, replaced by something that works better for them, or anything else. The only constant is that someone needs to run meetings and mediate conflict. The treehouse exists to serve those it houses then and there, and noone else.
+The set of governing rules for the treehouse set out in this doccument serve simply as a place to start. They could feature as the system inherited by the players, one that is simply accepted as a universal constant, or one that is eventually overruled by the players, replaced by something that works better for them, or anything else. The only constant is that someone needs to run meetings and mediate conflict. The treehouse exists to serve those it houses then and there, and no-one else.
+
+##### Fun suggestions for mods and tweaks
+
+- Add a secretary position to take meeting notes! (Works out of character too!)
 
 #### NPC preferences
 
@@ -83,31 +88,123 @@ Different groups have different opinions on GM-run treehouse members. Newer grou
 
 The game attempts to keep all scenes rooted in the treehouse. Flashbacks occur regularly to show scenes that have occurred in the past, but with few exceptions the "present moment" of the game remains the treehouse. This allows most meta conversations with other players that you might have in game to reasonably occur in the fiction, and in character. This should be taken advantage of by remaining in character as much as reasonably possible. For example, if you want to vent to someone but don't know who has the most spoons to deal with your vent, instead of asking the other players out of character whose character has the most spoons left to accommodate a vent, do it in character!
 
-More advanced groups will likely do so much more naturally than newer ones. The GM should try to spot these kinds of conversations and gently nudge players to engage in-character instead, though don't force it if players don't feel comfortable doing so.
+More advanced groups will likely do so much more naturally than newer ones. The GM should try to spot these kinds of conversations and gently nudge players to engage in-characater instead, though don't force it if players don't feel comfortable doing so.
+
+### Skill checks
+
+(GMs: See _On GMing_ later to determine when you should be calling for rolls!)
+
+When performing a skill check, do the following:
+
+#### 1: Determine consequences
+
+What happens if you succeed? If you fail?
+
+Players are welcome to propose ideas as to potential consequences (including players not involved in the current check!), but the final word is left to the player making the check and the GM.
+
+Remember to account for effects imposed by status effects and/or flaws, vices, & troubles
+
+#### 2. Gather dice pool
+
+Start with 1d8
+
+- Add any relevant dice if this check relates to one of your skills. (See: Failure and Skills)
+- Add 1d8 for each spare time block spent preparing for this check (max 2)
+- Add 1d8 by taking a deal with the devil (discuss with the GM to decide what this entails! TODO: better explanation)
+
+- Subtract d8's corresponding to your current level of Stress.
+- Subtract d8s equal to the check's difficulty, as determined by the GM:
+
+| difficulty  | dice subtracted |
+| ----------- | --------------- |
+| Contested   | -0d8            |
+| Challenging | -1d8            |
+| Impossible  | -2d8            |
+
+> [!NOTE]
+> Easy checks are simply succeeded, unless the player wishes to roll anyway
+
+If the final result is 0 or below, just roll one die and for each die below one your resulting total is, worsen the consequences by one step.
+
+| outcome          | roll        | consequences                    |
+| ---------------- | ----------- | ------------------------------- |
+| Critical Success | 2+ 8s       | Succeed & reduce stress         |
+| Success          | 6-8 highest | Succeed                         |
+| Failure          | 3-5 highest | Fail & perform a crash out roll |
+| Critical Falure  | 1-2 highest | Fail & add one status effect    |
+
+### Failure and skills
+
+Each character has a list of empty skills, that will be added to as checks are failed.
+
+Whenver you fail a roll, make a note of what your character learned. 
+If this lesson relates to a flaw, vice, or trouble, clear 5 Stress.
+
+Next time you make a check that happens to incorporate or make use of this lesson, gain 1d8 to your check's dice pool.
+For each additional lesson you have that relates to your roll, increase this d8 by one level (d8 -> d10 -> d12 -> 2d8 -> 2d10 -> ...).
+Treat all values greater than 8 as 8's.
 
 ### Progression
 
+Game Loop
+1. Meeting for the day is called to order
+2. Players take turns telling the others about their day. Spare time is spent and resulting scenes are played out. 
+
 #### Days
 
-This game is structured around a series of days. At the beginning of each one, players must decide how the hours at their disposal are spent. Each "day" every player contributes one event that occurred at school, home, or elsewhere that day and the group can optionally play that as a scene. Remove 2 stress if the event is related to a flaw, vice, or trouble.
+This game is structured around a series of days. At the beginning of each one, players must decide how the hours at their disposal are spent. 
+This is represented by the "spare time" statistic.
+Each "day" every player contributes one event that occurred at school, home, or elsewhere that day and the group can optionally play that as a scene. 
+Remove 2 stress if the event is related to a flaw, vice, or trouble.
+
+When spending spare time, roll 1d6 for environmental effects.
+
+On a 1-2, a complication occurs, a 3-5 indicates that nothing out of the ordinary occurred, and on a 6 something good happened.
+
+As a rule of thumb, complications and good things should be played out in-scene, and ordinary events can be quickly summarized, however, that is not a hard rule; by all means, feel free to roleplay the idle chitchat of a school hallway or the minute to minute proceedings of a history class.
+
+This concerns random events of chance that come up from time to time, but do not set a hard tone for the event. Eg: A complication may occur, but in roleplay this complication may turn into an opportunity, or other unrelated events might also occur that are not in line with the result. 
+
+In short, take the result of this roll as a prompt for a scene, rather than a hard result or outcome.
+
+If your character plans to take a certain action with their spare time and another character announces their character will be doing the same action, or one where the two could feasibly meet up, feel free to suggest the prospect. If accepted, after roleplaying the resulting scene together, each involved player can clear one Stress. Regardless of roll, joint scenes should be roleplayed.
 
 ### Spare time
 
-spare time is a resource that is evenly distributed to players.
+Spare time is a resource evenly distributed to characters. 
+Certain flaws, vices, and troubles may demand a player spend a certain amount of spare time doing one thing or another, or face consequences. 
+Otherwise, spare time can be spent as desired on any of the following, or something completely different.
+- Preparing for tasks
+- Working out
+- At work
+- At school
+- At home
 
-Spare time can be spent:
 
-#### Working out
 
-#### Preparing for a task
+#### Mechanical results
 
-#### Third thing here
+Mechanical results should be tied to the results and events of the scene in place of any listed statistics. 
 
-### Stats
+Here are some simple suggestions to get you started, but get creative!
 
-Each player character keeps track of a few key statistics. These differ from those present in many RPGs in that they don't denote any predispositions for or against certain types of gameplay (as a strength or intelligence stat would, for example)
+__Complication__
+- Add one Stress
+- New beef with an NPC or PC
+
+__Good event__
+- Clear one stress
+
+__Task Prep__
+- +1 forward on rolls for that task
+
+### Resources
+
+Each player character keeps track of a few key resources.
 
 - Stress
+- Status Effects
+- Flaws, Vices, and Troubles
 - Spare time
 - Inspiration TODO: positive token of progress to be spent on flaw, vice or trouble beat scenes
 
@@ -210,60 +307,24 @@ Regardless of how you get them, you can use IOUs to influence other characters w
 
 IOUs can be spent at any time during conversation to create one of the following affects.
 
-##### Ask a question
+##### Ask them a question
 
 - Answer honestly
 - Dodge the question and take 5 stress
 - Dodge the question and mark one beef towards them.
 
- TODO: Inner monologue?
+##### Ask them a favor
+
+- Do as requested
+- Reject the offer but offer them something that you care about instead
+- Reject the offer and take 5 stress
+- Reject the offer and mark one beef towards them.
+
+##### 
 
 #### Getting IOUs
 
 Certain IOUs (GM discretion) can be shared with others to gain IOUs on them. For example, if you have a secret (an IOU) about person A, you can tell person B in order to gain an IOU on person B. Person B then might gain that same IOU on person A, if the GM thinks that would be appropriate.
-
-### Skill checks
-
-(GMs: See _On GMing_ later to determine when you should be calling for rolls!)
-
-When performing a skill check, do the following:
-
-#### 1: Determine consequences
-
-What happens if you succeed? If you fail?
-
-Players are welcome to propose ideas as to potential consequences (including players not involved in the current check!), but the final word is left to the player making the check and the GM.
-
-Remember to account for effects imposed by status effects and/or flaws, vices, & troubles
-
-#### 2. Gather dice pool
-
-Start with 1d8
-
-- Add 1d8 if you have experience with this (GM discretion)
-- Add 1d8 for each spare time block spent preparing for this check (max 2)
-- Add 1d8 by taking a deal with the devil (discuss with the GM to decide what this entails! TODO: better explanation)
-
-- Subtract d8's corresponding to your current level of Stress.
-- Subtract d8s equal to the check's difficulty, as determined by the GM:
-
-| difficulty  | dice subtracted |
-| ----------- | --------------- |
-| Contested   | -0d8            |
-| Challenging | -1d8            |
-| Impossible  | -2d8            |
-
-> [!NOTE]
-> Easy checks are simply succeeded, unless the player wishes to roll anyway
-
-If the final result is 0 or below, just roll one die and for each die below one your resulting total is, worsen the consequences by one step.
-
-| outcome          | roll        | consequences                    |
-| ---------------- | ----------- | ------------------------------- |
-| Critical Success | 2+ 8s       | Succeed & reduce stress         |
-| Success          | 6-8 highest | Succeed                         |
-| Failure          | 3-5 highest | Fail & perform a crash out roll |
-| Critical Falure  | 1-2 highest | Fail & add one status effect    |
 
 ## Characters
 
@@ -274,19 +335,6 @@ If the final result is 0 or below, just roll one die and for each die below one 
 Conquering or coming to peace with a flaw, vice or trouble allows you to increase your status effect capacity
 
 TODO
-
-### Personality flaw
-
-Personality flaws are the avenue in which this game provides players with juicy juicy progression, and in doing so influences the poking and prodding at the aforementioned flaws, vices, and troubles of everyone involved. Drama queens are pushed to engage vices if insufficient tea is extracted from others. Narcisissts have a deep seated urge to downplay other's struggles to feel alright themselves. Perfectionists are pushed to fix others' issues rather than reckon with their own.
-
-TODO
-
-#### Goals
-
-- Push players to prod at others' flaws vices and troubles. All personalities should be a function of other characters' struggles in one way or another.
-- Provide progression arcs a-la slugblaster.
-- Provide defined goals for the GM and the player to strive for in the upcoming sessions a-la heart
-- (summary: heart and slugblaster's beat systems kissed sloppy style and made this)
 
 ## Beat system
 
@@ -344,3 +392,21 @@ Mikey Hamm's _Slugblaster_ inspired this game's classes. Its framework for class
 ### Tales From the Loop
 
 Nathaniel Halpern's _Tales From the Loop_ was a core inspiration for this system's status effect/ venting system. The idea of accruing mechanically damaging status effects that can then be shared with others to (potentially) alleviate them is an incredibly powerful idea when it comes to mechanically pushing players to engage in deep roleplay when they might otherwise opt to avoid more difficult, emotionally involved ideas & concepts.
+
+
+# Chopping Block
+
+### Personality flaw
+
+Personality flaws are the avenue in which this game provides players with juicy juicy progression, and in doing so influences the poking and prodding at the aforementioned flaws, vices, and troubles of everyone involved. Drama queens are pushed to engage vices if insufficient tea is extracted from others. Narcisissts have a deep seated urge to downplay other's struggles to feel alright themselves. Perfectionists are pushed to fix others' issues rather than reckon with their own.
+
+TODO
+
+#### Goals
+
+- Push players to prod at others' flaws vices and troubles. All personalities should be a function of other characters' struggles in one way or another.
+- Provide progression arcs a-la slugblaster.
+- Provide defined goals for the GM and the player to strive for in the upcoming sessions a-la heart
+- (summary: heart and slugblaster's beat systems kissed sloppy style and made this)
+
+
